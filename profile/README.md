@@ -1,12 +1,43 @@
-## Hi there 👋
 
-<!--
+# 여행한척?
 
-**Here are some ideas to get you started:**
+☘️ 여행 후기 사이트
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 사계절을 테마로 여행지에 대한 후기를 남기고 이를 사용자들과 공유합니다.
+
+기술스택 
+
+<aside>
+<img src="https://www.notion.so/icons/book-closed_blue.svg" alt="https://www.notion.so/icons/book-closed_blue.svg" width="40px" /> Frontend
+
+---
+
+-REACT
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/server_blue.svg" alt="https://www.notion.so/icons/server_blue.svg" width="40px" /> Backend
+
+---
+
+-Spring Boot
+
+-Spring Security
+
+-Swagger
+
+</aside>
+
+<aside>
+<img src="https://www.notion.so/icons/database_blue.svg" alt="https://www.notion.so/icons/database_blue.svg" width="40px" /> Infra
+
+---
+
+AWS RDS
+
+AWS S3
+
+AWS EC2
+
+</aside>
