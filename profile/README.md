@@ -8,7 +8,7 @@
 기술스택 
 
 <aside>
-<img src="https://www.notion.so/icons/book-closed_blue.svg" alt="https://www.notion.so/icons/book-closed_blue.svg" width="40px" /> Frontend
+Frontend
 
 ---
 
@@ -16,8 +16,7 @@
 
 </aside>
 
-<aside>
-<img src="https://www.notion.so/icons/server_blue.svg" alt="https://www.notion.so/icons/server_blue.svg" width="40px" /> Backend
+<aside> Backend
 
 ---
 
@@ -29,8 +28,7 @@
 
 </aside>
 
-<aside>
-<img src="https://www.notion.so/icons/database_blue.svg" alt="https://www.notion.so/icons/database_blue.svg" width="40px" /> Infra
+<aside> Infra
 
 ---
 
