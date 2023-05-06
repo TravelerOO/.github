@@ -1,4 +1,3 @@
-
 # 여행한척?
 
 ☘️ 여행 후기 사이트
@@ -8,7 +7,7 @@
 기술스택 
 
 <aside>
-Frontend
+<img src="https://www.notion.so/icons/book-closed_blue.svg" alt="https://www.notion.so/icons/book-closed_blue.svg" width="40px" /> Frontend
 
 ---
 
@@ -16,7 +15,8 @@ Frontend
 
 </aside>
 
-<aside> Backend
+<aside>
+<img src="https://www.notion.so/icons/server_blue.svg" alt="https://www.notion.so/icons/server_blue.svg" width="40px" /> Backend
 
 ---
 
@@ -28,7 +28,8 @@ Frontend
 
 </aside>
 
-<aside> Infra
+<aside>
+<img src="https://www.notion.so/icons/database_blue.svg" alt="https://www.notion.so/icons/database_blue.svg" width="40px" /> Infra
 
 ---
 
