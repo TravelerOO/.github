@@ -6,7 +6,4 @@
 
 # 프로젝트 구조
 ## 기술스택
-
-![image](https://user-images.githubusercontent.com/40461588/236685899-8c48627a-39fa-4790-b56b-5eb3d0839482.png)
-
-
+<img width="2027" alt="4" src="https://user-images.githubusercontent.com/40461588/236686167-a2eadca9-02e4-4649-8dc6-17d7cfd4b494.png">
