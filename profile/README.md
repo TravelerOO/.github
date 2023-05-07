@@ -39,7 +39,6 @@
 ### ORM/DB
 
 #### SPring DATA JPA를 활용하여서 CRUD를 구현합니다.
-#### 필요한 경우 JPQL/Query DSL을 혼용하여 사용합니다. 
 
 
 ### REST API
