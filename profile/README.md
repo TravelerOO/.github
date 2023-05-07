@@ -4,39 +4,9 @@
 
 - 사계절을 테마로 여행지에 대한 후기를 남기고 이를 사용자들과 공유합니다.
 
-기술스택 
+# 프로젝트 구조
+## 기술스택
 
-<aside>
-<img src="https://www.notion.so/icons/book-closed_blue.svg" alt="https://www.notion.so/icons/book-closed_blue.svg" width="40px" /> Frontend
+![image](https://user-images.githubusercontent.com/40461588/236685899-8c48627a-39fa-4790-b56b-5eb3d0839482.png)
 
----
 
--REACT
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/server_blue.svg" alt="https://www.notion.so/icons/server_blue.svg" width="40px" /> Backend
-
----
-
--Spring Boot
-
--Spring Security
-
--Swagger
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/database_blue.svg" alt="https://www.notion.so/icons/database_blue.svg" width="40px" /> Infra
-
----
-
-AWS RDS
-
-AWS S3
-
-AWS EC2
-
-</aside>
