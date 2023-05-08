@@ -38,14 +38,6 @@ jobs:
       run: aws deploy push --application-name ${{ env.AWS_CODE_DEPLOY_APPLICATION }} --ignore-hidden-files --s3-location s3://$AWS_S3_BUCKET/cicdtest/$GITHUB_SHA.zip --source .
     - name: EC2에 배포
       run: aws deploy create-deployment --application-name ${{ env.AWS_CODE_DEPLOY_APPLICATION }} --deployment-config-name CodeDeployDefault.AllAtOnce --deployment-group-name ${{ env.AWS_CODE_DEPLOY_GROUP }} --s3-location bucket=$AWS_S3_BUCKET,key=cicdtest/$GITHUB_SHA.zip,bundleType=zip
-나는 요로코롬 작성해주었고, 각 스텝들의 역할은 name으로 작성해두었으니 참고하자.
-
-
-⚡ appspec.yml 작성
-그리고 프로젝트의 루트 경로에 appspec.yml도 작성해주어야한다.
-이 파일은 Code deploy가 수행할 일들을 작성하는 곳이다.
-
-appspec.yml 은 공식 매뉴얼을 보고 작성하면 좋을 것 같다.
 
 version: 0.0
 os: linux
