@@ -22,7 +22,7 @@
 
 # ⚙️ 프로젝트 구조
 ## 기술스택
-<img width="100%" alt="4" src="https://user-images.githubusercontent.com/40461588/236686167-a2eadca9-02e4-4649-8dc6-17d7cfd4b494.png">
+<img width="100%" alt="4" src="https://github.com/TravelerOO/.github/assets/40461588/3860bd63-b1b6-45b5-b361-9bde01a22749.png">
 
 
 
