@@ -35,7 +35,9 @@
 
 #### COMMON
 -[Git commit convention](https://github.com/orgs/TravelerOO/discussions/3)
+
 -[Git flow 전략의 적용](https://github.com/orgs/TravelerOO/discussions/4)
+
 -[백엔드의 구조](https://github.com/orgs/TravelerOO/discussions/2)
 
 
