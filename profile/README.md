@@ -28,8 +28,9 @@
 
 # 🏃🏻‍♂️프로젝트 과정
 ### 🙆🏻‍♀️ 협업
-[Notion](https://pattern-crepe-9a6.notion.site/8d1ec895626746bbbae38c85d360afb7)
-[Figma](https://www.figma.com/file/rBdztAxlbjJDohU8V2Gwkb/%ED%95%AD%ED%95%B4-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=0%3A1&t=6ggiaM5n31Hq6k5P-1)
+-[Notion](https://pattern-crepe-9a6.notion.site/8d1ec895626746bbbae38c85d360afb7)
+
+-[Figma](https://www.figma.com/file/rBdztAxlbjJDohU8V2Gwkb/%ED%95%AD%ED%95%B4-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=0%3A1&t=6ggiaM5n31Hq6k5P-1)
 
 ### 📚 Docs
 
